@@ -1,7 +1,7 @@
 const { Composer } = require("micro-bot");
 const axios = require("axios");
 
-const bot = new Composer("5061965213:AAEkA9SXhq2F38rLWeQ3sDSH5wKmhhgDR6Y");
+const bot = new Composer();
 
 /* INICIO */
 bot.start((ctx) =>
