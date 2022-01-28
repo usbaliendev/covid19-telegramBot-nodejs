@@ -151,7 +151,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
   <tr>
     <td align="center">
       <a href="#">
-        <img src="https://avatars.githubusercontent.com/u/50382278?v=4" width="100px;" alt="Foto do Angelo S Dorfey no GitHub"/><br>
+        <img src="https://avatars.githubusercontent.com/u/50382278?v=4" width="100px;" alt="Avatar"/><br>
         <sub>
           <b>Angelo S Dorfey</b>
         </sub>
@@ -176,17 +176,10 @@ Project Link: [https://github.com/usbangelo/covid19-telegramBot-nodejs](https://
 
 ## Conhecimentos Utilizados
 
-- [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-- [Img Shields](https://shields.io)
-- [Choose an Open Source License](https://choosealicense.com)
-- [GitHub Pages](https://pages.github.com)
-- [Animate.css](https://daneden.github.io/animate.css)
-- [Loaders.css](https://connoratherton.com/loaders)
-- [Slick Carousel](https://kenwheeler.github.io/slick)
-- [Smooth Scroll](https://github.com/cferdinandi/smooth-scroll)
-- [Sticky Kit](http://leafo.net/sticky-kit)
-- [JVectorMap](http://jvectormap.com)
-- [Font Awesome](https://fontawesome.com)
+- [Telegram Bot API](https://core.telegram.org/bots/api)
+- [Telegraf.js - v4.5.2](https://telegraf.js.org/)
+- [CORONAVÍRUS BRASIL](https://covid.saude.gov.br/)
+- [Brasil.io Site](https://brasil.io/dataset/covid19/caso/)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
