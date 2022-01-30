@@ -56,10 +56,11 @@ bot.action("restart", (ctx) => {
 	/* ctx.deleteMessage() */
 	ctx.telegram.sendMessage(
 		ctx.chat.id,
-		`*BOT INICIADO!* 🦠😷
-	
-👋🏻 Olá! Bem vindo ao seu parceiro informativo de Covid-19 do DF!
-⬇️ Selecione a ação desejada:
+		`⬇️ Selecione a ação desejada:
+
+VACINE SUAS CRIANÇAS TAMBÉM 👧🏽👦🏿🧒🏻
+A vacinação infanto-juvenil já começou 🚸
+				 
 			 
 1️⃣ - Locais e postos de vacinação
 2️⃣ - Máscaras recomendadas
