@@ -11,6 +11,8 @@ bot.start((ctx) =>
 	
 👋🏻 Olá! Bem vindo ao seu parceiro informativo de Covid-19 do DF!
 ⬇️ Selecione a ação desejada:
+
+VACINE SUAS CRIANCAS TAMBÉM 👧🏽👦🏿🧒🏻🚸
 		 
 1️⃣ - Locais e postos de vacinação
 2️⃣ - Máscaras recomendadas
@@ -103,7 +105,7 @@ bot.action("LPV", (ctx) => {
 		ctx.chat.id,
 		`*LOCAIS E POSTOS DE VACINAÇÃO*
 
-Abaixo temos o link do site oficial da secretaria de saúde que disponibiliza os locais e os horários das vacinas para pessoas de todas as idades.
+Abaixo temos o link do site oficial da secretaria de saúde que disponibiliza os locais e os horários das vacinas para pessoas de todas as idades (INCLUSIVE VACINAÇÃO INFANTO-JUVENIL).
 O site contem as primeiras doses, segundas doses, doses adicionais, doses de reforço e postos noturnos. A pagina é oficial e é atualizada regularmente.`,
 		{
 			parse_mode: "Markdown",
@@ -353,11 +355,12 @@ bot.action("TD", (ctx) => {
 		ctx.chat.id,
 		`*É PRECISO TOMAR A TERCEIRA DOSE?*
 
-O Ministério da Saúde no Brasil autorizou a terceira dose da vacina contra a COVID-19, com previsão de iniciar a aplicação em setembro, preferencialmente com uma dose de reforço da vacina da Pfizer ou, de forma alternativa, uma dose de uma das vacinas da AstraZeneca ou da Janssen.
+O Ministério da Saúde no Brasil autorizou a terceira dose da vacina contra a COVID-19, com previsão de iniciar a aplicação em setembro de 2021, preferencialmente com uma dose de reforço da vacina da Pfizer ou, de forma alternativa, uma dose de uma das vacinas da AstraZeneca ou da Janssen.
 
-Essa dose de reforço, inicialmente será feita em idosos com mais de 60 anos que tenham recebido as duas doses de qualquer outra vacina da COVID-19 há pelo menos 6 meses e, também, para pessoas com o sistema imunológico enfraquecido que completaram o esquema de vacinação com duas doses de qualquer vacina ou dose única da Janssen há pelo menos 28 dias e para os profissionais de saúde. Veja quando tomar a terceira dose da vacina contra a COVID-19. 🧭
-		
-Em Portugal, a Agência Europeia de Medicamentos autorizou a aplicação da terceira dose da vacina contra a COVID-19 com Pfizer para pessoas acima dos 65 anos e que foram vacinadas com esse imunizante.
+Essa dose de reforço, inicialmente será feita em idosos com mais de 60 anos que tenham recebido as duas doses de qualquer outra vacina da COVID-19 há pelo menos 6 meses e, também, para pessoas com o sistema imunológico enfraquecido que completaram o esquema de vacinação com duas doses de qualquer vacina ou dose única da Janssen há pelo menos 28 dias e para os profissionais de saúde.
+
+Porém a terceira dose já está disponibilizada para ser tomada por pessoas de maiores de idade que tenham se vacidado com um intervalo mínimo de 4 meses da segunda dose.
+Veja quando tomar a terceira dose da vacina contra a COVID-19. 🧭
 `,
 		{
 			parse_mode: "Markdown",
