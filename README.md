@@ -68,7 +68,8 @@ Devido a crise que ocorreu em 2020 e 2021 pela pandemia do Covid-19, a necessida
 
 ### Construido com
 
-- [Python 3.9](https://www.python.org)
+- [Telegram Bot API](https://core.telegram.org/bots/api)
+- [Telegraf.js - v4.5.2](https://telegraf.js.org/)
 
 ### Ajustes e melhorias
 
@@ -106,7 +107,6 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
 <!---Estes são apenas requisitos de exemplo. Adicionar, duplicar ou remover conforme necessário--->
 
-- Você instalou a versão mais recente `<python 3.9>`
 - Você tem uma máquina `<Windows / Linux / Mac>`. Indique qual sistema operacional é compatível / não compatível.
 - Você leu `<guia / link / documentação_relacionada_ao_projeto>`
 
